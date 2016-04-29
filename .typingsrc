@@ -1,0 +1,2 @@
+proxy = http://localhost:3333
+rejectUnauthorized = false

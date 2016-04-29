@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.fontFamily": "Consolas",
+    "editor.fontSize": 12,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "node_modules": true,
+        ".typingsrc": true,
+        "typings.json": true
+    },
+    "http.proxy": "http://localhost:3333",
+    "http.proxyStrictSSL": false
+}
